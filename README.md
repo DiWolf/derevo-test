@@ -1,0 +1,6 @@
+#Variables del archivo .env#
+
+PORT=PUERTO_DEL_SERVIDOR por defecto 9001
+APPLICATION_NAME="NOMBRE_APLICACION"
+NODE_ENV=production
+SWAGGER_DOC="swaggerDEV"
